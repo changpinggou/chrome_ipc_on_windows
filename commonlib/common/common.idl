@@ -1,0 +1,18 @@
+// common.idl : IDL source for common
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (common.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(DFAB509A-9B55-45D2-AC36-06B0CE935E02),
+	version(1.0),
+]
+library commonLib
+{
+	importlib("stdole2.tlb");
+};
+

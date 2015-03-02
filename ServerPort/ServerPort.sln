@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServerPort", "ServerPort\ServerPort.vcxproj", "{3F82CA1F-FBFA-4F88-9E41-E59BB1460F5E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClientPort", "ClientPort\ClientPort.vcxproj", "{A361F571-9410-4A82-BD5C-06CEA068E59F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "common", "..\commonlib\common\common.vcxproj", "{12041E57-1BB7-4060-88F9-37324A585983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F82CA1F-FBFA-4F88-9E41-E59BB1460F5E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F82CA1F-FBFA-4F88-9E41-E59BB1460F5E}.Debug|Win32.Build.0 = Debug|Win32
+		{3F82CA1F-FBFA-4F88-9E41-E59BB1460F5E}.Release|Win32.ActiveCfg = Release|Win32
+		{3F82CA1F-FBFA-4F88-9E41-E59BB1460F5E}.Release|Win32.Build.0 = Release|Win32
+		{A361F571-9410-4A82-BD5C-06CEA068E59F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A361F571-9410-4A82-BD5C-06CEA068E59F}.Debug|Win32.Build.0 = Debug|Win32
+		{A361F571-9410-4A82-BD5C-06CEA068E59F}.Release|Win32.ActiveCfg = Release|Win32
+		{A361F571-9410-4A82-BD5C-06CEA068E59F}.Release|Win32.Build.0 = Release|Win32
+		{12041E57-1BB7-4060-88F9-37324A585983}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12041E57-1BB7-4060-88F9-37324A585983}.Debug|Win32.Build.0 = Debug|Win32
+		{12041E57-1BB7-4060-88F9-37324A585983}.Release|Win32.ActiveCfg = Release|Win32
+		{12041E57-1BB7-4060-88F9-37324A585983}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

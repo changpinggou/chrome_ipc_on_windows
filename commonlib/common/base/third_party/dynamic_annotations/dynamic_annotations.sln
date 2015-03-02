@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dynamic_annotations", "dynamic_annotations.vcxproj", "{A41AE2A0-210B-8030-9C56-F89990EE7D74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dynamic_annotations_win64", "dynamic_annotations_win64.vcxproj", "{FB80FB59-96C9-93B9-1A51-E079F9AFE690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41AE2A0-210B-8030-9C56-F89990EE7D74}.Release|x64.ActiveCfg = Release|x64
+		{A41AE2A0-210B-8030-9C56-F89990EE7D74}.Release|x64.Build.0 = Release|x64
+		{A41AE2A0-210B-8030-9C56-F89990EE7D74}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A41AE2A0-210B-8030-9C56-F89990EE7D74}.Debug|Win32.Build.0 = Debug|Win32
+		{A41AE2A0-210B-8030-9C56-F89990EE7D74}.Debug|x64.ActiveCfg = Debug|x64
+		{A41AE2A0-210B-8030-9C56-F89990EE7D74}.Debug|x64.Build.0 = Debug|x64
+		{A41AE2A0-210B-8030-9C56-F89990EE7D74}.Release|Win32.ActiveCfg = Release|Win32
+		{A41AE2A0-210B-8030-9C56-F89990EE7D74}.Release|Win32.Build.0 = Release|Win32
+		{FB80FB59-96C9-93B9-1A51-E079F9AFE690}.Release|x64.ActiveCfg = Release|x64
+		{FB80FB59-96C9-93B9-1A51-E079F9AFE690}.Release|x64.Build.0 = Release|x64
+		{FB80FB59-96C9-93B9-1A51-E079F9AFE690}.Debug|Win32.ActiveCfg = Debug|x64
+		{FB80FB59-96C9-93B9-1A51-E079F9AFE690}.Debug|Win32.Build.0 = Debug|x64
+		{FB80FB59-96C9-93B9-1A51-E079F9AFE690}.Debug|x64.ActiveCfg = Debug|x64
+		{FB80FB59-96C9-93B9-1A51-E079F9AFE690}.Debug|x64.Build.0 = Debug|x64
+		{FB80FB59-96C9-93B9-1A51-E079F9AFE690}.Release|Win32.ActiveCfg = Release|x64
+		{FB80FB59-96C9-93B9-1A51-E079F9AFE690}.Release|Win32.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

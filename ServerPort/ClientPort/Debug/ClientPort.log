@@ -1,0 +1,9 @@
+﻿Build started 2015/2/10 11:54:33.
+     1>Project "C:\Users\applechang\Desktop\ipc_win_pipe\ServerPort\ClientPort\ClientPort.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\ClientPort.lastbuildstate".
+     1>Done Building Project "C:\Users\applechang\Desktop\ipc_win_pipe\ServerPort\ClientPort\ClientPort.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.02
